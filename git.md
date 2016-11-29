@@ -12,3 +12,7 @@ cd = current dir
 -git push origin master
 -git log = Past commits
 git status - tells changes to be committed
+
+
+
+12345678910
